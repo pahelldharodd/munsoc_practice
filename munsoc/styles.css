@@ -1,0 +1,67 @@
+body {
+    background-color: #333;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+h1 {
+    color: #4a90e2;
+    font-size: 2.5em;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #ffcc00;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 1.2em;
+    color: #ccc;    
+}
+
+.profile-image {
+    width: 300px;
+    height: auto;
+    margin-top: 30px;
+}
+
+.yt-button {
+    background-color: #ffcc00;
+    color: #333;
+    cursor: pointer;
+}
+
+.yt-button:hover {
+    background-color: #00e01a;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #444;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+footer {
+    margin-top: 30px;
+    color: #888;
+}
